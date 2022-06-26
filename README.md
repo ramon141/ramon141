@@ -1,4 +1,4 @@
-<p align="left">Hello World!!</p>
+<p align="left">Olá, eu sou Ramon. Atualmente bolsista da FADESP, utilizando tecnologias como: Docker, React, JS, Loopback.<br>Atuei desenvolvendo jogos utilizando Unity, websites utlizando PHP, JS, HTML e CSS. Estudante de conceitos avançados de Java, como desenvolver elementos 3D.</p>
 
 ###
 
